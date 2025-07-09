@@ -1,6 +1,5 @@
-  // 🔽 Paste your updated valid firm names here:
-  const validFirms = [
-  "MARON MARVEL BRADLEY ANDERSON & TARDY, LLC",
+const validFirms = [
+   "MARON MARVEL BRADLEY ANDERSON & TARDY, LLC",
   "ALFORD & CLARK, PLLC",
   "ANDERSON ALEXANDER, PLLC",
   "ANDERSON INJURY LAWYERS",
@@ -220,10 +219,9 @@
   "ZAPATA & KALE",
   "ZEHL & ASSOCIATES",
   "ZELLE LLP",
-  "ALAMO CITY LAW FIRM, PLLC"
+  "\ufeffALAMO CITY LAW FIRM, PLLC"
   ];
 
-  // 🔽 Paste your updated valid patient folder names here:
   const validPatients = [
 "GRANATO, JASON M",
     "MELO, THIAGO AUGUSTO SOARES DE",
