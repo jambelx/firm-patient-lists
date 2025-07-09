@@ -218,7 +218,7 @@ const validFirms = [
   "XAVIER AND GLORIA HERNANDEZ",
   "ZAPATA & KALE",
   "ZEHL & ASSOCIATES",
-  "ZELLE LLP"
+  "ZELLE LLP",
 
   ];
 
@@ -4703,5 +4703,5 @@ const validFirms = [
   "ZUNIGA, SAMUEL",
   "ZUNKER, SCOTT ALLAN",
   "ZUYUS, CHRISTOPHER",
-  "ZUYUS, VALERIE"
+  "ZUYUS, VALERIE",
   ];
