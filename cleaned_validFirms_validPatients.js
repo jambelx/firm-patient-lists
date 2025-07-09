@@ -218,7 +218,7 @@ const validFirms = [
   "XAVIER AND GLORIA HERNANDEZ",
   "ZAPATA & KALE",
   "ZEHL & ASSOCIATES",
-  "ZELLE LLP",
+  "ZELLE LLP"
 
   ];
 
