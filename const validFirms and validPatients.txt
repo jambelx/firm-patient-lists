@@ -1,5 +1,6 @@
  // ✅ Update these lists manually
   const validFirms = [
+"LINDOW STEPHENS SCHULTZ LLP",
     "FUCHS ROSENZWEIG PLLC",
     "HOLLY D. SHULL & ASSOCIATES",
     "CONNICK MCNAMEE PLLC",
@@ -11,6 +12,7 @@
   ];
 
   const validPatients = [
+"VELASQUEZ, CREED",
     "MARSHALL, CYNTHIA",
     "GRANATO, JASON M",
     "MELO, THIAGO AUGUSTO SOARES DE",
