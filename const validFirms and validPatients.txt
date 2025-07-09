@@ -1,6 +1,5 @@
-  // ✅ Update these lists manually
-  const validFirms = [
-  "MARON MARVEL BRADLEY ANDERSON & TARDY, LLC",
+const validFirms = [
+    "MARON MARVEL BRADLEY ANDERSON & TARDY, LLC",
   "ALFORD & CLARK, PLLC",
   "ANDERSON ALEXANDER, PLLC",
   "ANDERSON INJURY LAWYERS",
@@ -220,14 +219,9 @@
   "ZAPATA & KALE",
   "ZEHL & ASSOCIATES",
   "ZELLE LLP",
-  "ALAMO CITY LAW FIRM, PLLC"
-  ];
+];
 
-  const validPatients = [
-"GRANATO, JASON M",
-    "MELO, THIAGO AUGUSTO SOARES DE",
-     "CIOK, RADOSLAW",
-    "SIMS, CALLIE",
+const validPatients = [
     "MULLANEY, MARY",
 "FISCHBACH, DAVID",
 "REYES, YOSELIN GONZALEZ",
@@ -4715,4 +4709,4 @@
   "ZUNKER, SCOTT ALLAN",
   "ZUYUS, CHRISTOPHER",
   "ZUYUS, VALERIE"
-  ];
+];
